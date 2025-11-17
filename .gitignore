@@ -1,0 +1,59 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.tmp
+*.temp
+
+# Binaries
+bin/
+obj/
+
+# Logs
+*.log
+
+# Database files
+*.db
+*.mdf
+*.ldf
+
+# Packages
+packages/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Report files
+*.rdlc
+*.rdl
+
+# SQL files (if not needed)
+*.sql
+
+# Other
+*.exe
+*.dll
+*.pdb
